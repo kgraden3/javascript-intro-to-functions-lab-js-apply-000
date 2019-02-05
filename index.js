@@ -1,5 +1,5 @@
 var deaf = "I can\'t hear you!"
-var yes = "YES INDEED"
+var yes = "YES INDEED!"
 var love = "I love you, too."
 
 
