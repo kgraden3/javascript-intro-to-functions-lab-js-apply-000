@@ -1,4 +1,4 @@
-var deaf = "I can't hear you!"
+var deaf = "I can\'t hear you!"
 var yes = "YES INDEED"
 var love = "I love you, too."
 
@@ -19,6 +19,8 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 
-function sayHiToGrandma(string) {
-  return deaf.toLowerCase() === deaf
+function sayHiToGrandma(string.toUpperCase() === string) {
+  return deaf
 }
+
+ 
